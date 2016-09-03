@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Test post
+    id: a9a997f2-a4e9-47ca-a560-820a0db8df91
+    type: content
 favicon: null
 description: 'Been there, done that'
 purpose: []
