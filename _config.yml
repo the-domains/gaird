@@ -1,19 +1,4 @@
-name: gaird
-favicon: null
-layout_spectrum: 0.5054525048471987
 typography_spectrum: 0.42619905015453696
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.3125
   rhythmicContrast: 0.1436648922972381
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5054525048471987
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: gaird
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: 'Been there, done that'
 purpose: []
